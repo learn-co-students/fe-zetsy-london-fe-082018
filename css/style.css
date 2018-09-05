@@ -1,6 +1,16 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+h1 {
+  color: rgb(152,173,166);
+  font-family: 'Wingdings', serif;
+  font-size: 5em; 
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  margin: 0 0 5px;
+ /*  font-family: 'Uncial Antiqua', cursive; */
+}
+
 
 /*////////// Global Styles //////////*/
 
@@ -18,3 +28,26 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h2 {
+  color: rgb(111,127,122);
+  font-size: 2em; 
+}
+
+p {
+  color: #555;
+  font-size: 1em;
+}
+
+.featured_img {
+    border: 5px rgb(152,173,166) solid;
+}
+
+.press_img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
+
+footer {
+  text-align: right;
+}
