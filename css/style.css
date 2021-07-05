@@ -18,3 +18,29 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  color: rgb(156,173,166);
+  font-family: 'Baskerville', serif;
+  font-size: 5em;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+h2 {
+  color: rgb(111,127,122);
+  font-size: 2em;
+  font-family: 'Times New Roman', serif;
+}
+
+footer {
+  text-align: right;
+  font-size: 0.8em;
+}
+
+
+img {
+    border: 5px #ccc solid ;
+    padding: 1px;
+}
