@@ -17,4 +17,29 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+img {
+  border-width: 5px;
+  border-style: solid;
+  border-color: blue;
+}
+
+h1, h2 {
+  font-family:"Baskerville";
+}
+
+h1 {
+  font-size:80px;
+  border-bottom: 1px solid red;
+  margin-bottom: 5px;
+  margin-top:0px;
+  padding:10px;
+}
+
+
+h2 {
+  font-size:30px;
+}
+
+.footer {
+  text-align: right;
+}
