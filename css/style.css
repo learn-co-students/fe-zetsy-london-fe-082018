@@ -17,4 +17,24 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1{
+  color: grey;
+  font-size: 300%;
+  font-family: 'Baloo Tammudu', cursive;
+}
+
+h2{
+  color: grey;
+}
+
+img{
+  border:5px solid lightgrey;
+}
+
+.footer{  
+  font-size: 14px;
+  text-align: right;
+  
+}
+  
 /* Write all remaining styles here */
